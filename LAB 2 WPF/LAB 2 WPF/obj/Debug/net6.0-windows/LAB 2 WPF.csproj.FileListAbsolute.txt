@@ -1,0 +1,21 @@
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.csproj.AssemblyReference.cache
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\App.g.cs
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF_MarkupCompile.cache
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF_MarkupCompile.lref
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\bin\Debug\net6.0-windows\LAB 2 WPF.exe
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\bin\Debug\net6.0-windows\LAB 2 WPF.deps.json
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\bin\Debug\net6.0-windows\LAB 2 WPF.runtimeconfig.json
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\bin\Debug\net6.0-windows\LAB 2 WPF.dll
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\bin\Debug\net6.0-windows\LAB 2 WPF.pdb
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\MainWindow.baml
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.g.resources
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.AssemblyInfoInputs.cache
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.AssemblyInfo.cs
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.csproj.CoreCompileInputs.cache
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.dll
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\refint\LAB 2 WPF.dll
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.pdb
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\LAB 2 WPF.genruntimeconfig.cache
+E:\visual studio\LAB 2 WPF\LAB 2 WPF\obj\Debug\net6.0-windows\ref\LAB 2 WPF.dll
